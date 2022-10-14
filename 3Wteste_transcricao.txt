@@ -1,0 +1,1 @@
+Endereçamento ip. Configurações de redes locais. Comutação de pacotes versus. Comutação de circuitos. Modelos de arquiteturas em camadas. 

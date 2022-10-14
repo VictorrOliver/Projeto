@@ -1,0 +1,1 @@
+Conceitos fundamentais da camada. De enlace. Camada de enlace protocolos de acesso ao meio. Conceitos fundamentais da camada de rede. 
